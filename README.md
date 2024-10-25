@@ -1,3 +1,3 @@
 # GitHub Actions Lab 1
 
-Random Line
+Random Line example
